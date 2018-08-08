@@ -1,0 +1,20 @@
+.container {
+    margin-left: 40px;
+}
+
+.has-text-primary {
+    color: #049a33!important;
+}
+.has-text-primary: hover {
+    color: #03de85!important
+}
+
+li {
+    list-style-type: none;
+    margin-bottom: 20px;
+}
+
+ul {
+    position: relative;
+    left: -25px;
+}
