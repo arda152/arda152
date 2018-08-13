@@ -1,15 +1,15 @@
-
-.has-text-primary {
-    color: #049a33!important;
-}
-.has-text-primary: hover {
-    color: #03de85!important
-}
-
 li {
     list-style-type: none;
 }
 
 .content ul, ul {
     margin: 5;
+}
+
+a {
+    color: #049a33!important;
+}
+
+a:hover {
+    color: #03de85!important
 }
